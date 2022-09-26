@@ -1,0 +1,25 @@
+.Antraste {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(89, 81, 80);
+    padding: 20px;
+    font-size: large;
+    color: rgb(242, 232, 232);
+    
+}
+.meniujuosta {
+    display: flex;
+}
+.mygtukas {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    background-color: rgb(175, 166, 165);
+    padding: 8px;
+    border: 12px solid black;
+}
+.mygtukonuoroda {
+    text-decoration: none;
+    
+    color: rgb(0, 0, 0);
+}
