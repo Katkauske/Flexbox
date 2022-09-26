@@ -1,3 +1,6 @@
+.pagr { 
+    border: 15px solid white;
+}
 .Antraste {
     display: flex;
     justify-content: center;
@@ -5,7 +8,7 @@
     padding: 20px;
     font-size: large;
     color: rgb(242, 232, 232);
-    
+    border: 2px solid white; 
 }
 .meniujuosta {
     display: flex;
@@ -17,9 +20,38 @@
     background-color: rgb(175, 166, 165);
     padding: 8px;
     border: 12px solid black;
+    
 }
 .mygtukonuoroda {
     text-decoration: none;
-    
-    color: rgb(0, 0, 0);
+    color: rgb(246, 239, 239);
+    width: 100%;
+    height: 100%;
+    text-align: center;
+
+}
+.antras {
+    display: flex;
+    flex-grow: 2;
+    border-bottom: 5px solid black;
+}
+.kaire {
+    background-color: rgb(200, 195, 188);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1em;
+    width:155%;
+    text-align: justify;
+}
+.desine  {
+    background: rgb(243, 234, 234);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1em;
+    align-content:flex-start;
+}
+.paskutinis{
+   background: rgb(200, 195, 188);
+   padding: 1em;
+   align-items: flex-end;
 }
