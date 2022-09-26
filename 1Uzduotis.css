@@ -20,7 +20,6 @@
     background-color: rgb(175, 166, 165);
     padding: 8px;
     border: 12px solid black;
-    
 }
 .mygtukonuoroda {
     text-decoration: none;
@@ -28,7 +27,6 @@
     width: 100%;
     height: 100%;
     text-align: center;
-
 }
 .antras {
     display: flex;
