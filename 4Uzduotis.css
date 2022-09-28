@@ -27,3 +27,7 @@
     height: 7%;
     width: 7%;
 }
+.borderis  {
+    border: 2px solid gray;
+    border-radius: 7px;
+}
