@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+.juosta {
+    display: flex;
+    flex-direction: row;
+}
+.langelis {
+    background: gray;
+    padding: 3%;
+    border: 3px solid white;
+    color: aliceblue;
+    font-size: xx-large;
+    display: flex;
+    justify-content: flex-start;
+    height: 7%;
+    width: 7%;
+}
+.zaliaslangelis {
+    background: green;
+    padding: 3%;
+    border: 3px solid white;
+    color: aliceblue;
+    font-size:xx-large;
+    display: flex;
+    justify-content: flex-start;
+    height: 7%;
+    width: 7%;
+}
