@@ -1,0 +1,94 @@
+.header { 
+    background: rgb(126, 186, 245);
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+}
+.kaire {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}    
+.kairesmygtukas {
+    display: flex;
+    justify-content: flex-start;
+    color: white;
+    font-size: 130%;
+
+}
+.kairesnuoroda {
+    display: flex;
+    padding: 3%;
+    text-decoration: none;
+    color: white;
+}
+.kairesnuorodas {
+    display: flex;
+    padding: 3%;
+    text-decoration: none;
+    border-right: 1px solid white;
+    color: white;
+}
+.centras { 
+    display: flex;
+    align-items: center;
+    flex-flow: column wrap;
+    justify-content:center;
+}
+.centrocentras { 
+    font-size:500%;
+    color: white;
+}
+.centroapacia { 
+    display: flex;
+    justify-content:last baseline;
+    font-family:  "Courier New", monospace;
+    font-size: 150%;
+    color: rgb(188, 218, 248);
+}
+.desine { 
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 20%;
+    margin-right: 1%;
+}
+.desinesmygtukas { 
+    border: 1px solid white;
+    border-radius: 10%;
+    padding: 3%;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    font-size: 110%;
+}
+.desinesnuoroda {
+    text-decoration: none;
+    color: white;
+}
+.juosta {
+    display: flex;
+    align-items: baseline;
+    background: rgb(49, 89, 183);
+    
+}
+.juostosmygtukas {
+    display: flex;
+    flex-grow: 1;
+    border: 1px solid rgb(77, 114, 202);
+    padding: 2%;
+    justify-content: center;
+}
+.juostosnuoroda {
+    color: white;
+    text-decoration: none;
+}
+.tuscias {
+    display: flex;
+    flex-grow: 0.5;
+}
+.tamsus {
+    background: rgba(29, 51, 104, 0.703);
+}
+
+
